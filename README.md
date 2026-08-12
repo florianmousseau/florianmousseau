@@ -1,26 +1,34 @@
-# Hi, I'm Florian 👋
+# Florian Mousseau
 
-Building **clean, accessible** web tools — fast to load, zero tracking, open source.
+Tech Lead. Back-end since 2010, in banking since 2014.
 
-## ♠️ CleanPoker
+I publish local-first libraries: the working copy lives in the browser, backups
+are encrypted and portable, and nothing needs a server to be useful.
 
-> Free planning poker for agile teams — no account, no tracking, WCAG 2.1 AA.
+### [selfstore](https://selfstore.dev)
 
-[![cleanpoker.dev](https://img.shields.io/badge/%E2%86%92%20cleanpoker.dev-1a6b3c?style=for-the-badge&logoColor=white)](https://cleanpoker.dev)
+Local-first storage for browser apps: an IndexedDB working copy, portable
+encrypted ZIP backups (AES-256-GCM over Argon2id), durable homes (disk, Google
+Drive, WebDAV) and a serverless multi-device merge.
 
-![CleanPoker](https://raw.githubusercontent.com/florianmousseau/cleanpoker/main/frontend/static/og-image.png)
+[npm](https://www.npmjs.com/package/selfstore) · MIT
 
-`Go` · `SvelteKit` · `WebSocket` · `5 languages` · `0 trackers` · `Lighthouse Accessibility 100`
+### [truecopy](https://truecopy.dev)
 
-## 🛠 Stack
+Extract tables from a PDF, a paste or a CSV in TypeScript, and know when the
+extraction cannot be trusted. It learns each document's own shape, so a new
+issuer needs no new configuration.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[npm](https://www.npmjs.com/package/truecopy) · MIT
+
+### [cleanpoker](https://cleanpoker.dev)
+
+Planning poker for agile teams: no account, no tracking, WCAG 2.1 AA. Go and
+SvelteKit, five languages.
+
+[source](https://github.com/florianmousseau/cleanpoker)
 
 ---
 
-🌱 Green IT &nbsp;·&nbsp; ♿ WCAG 2.1 AA &nbsp;·&nbsp; 🇫🇷 France
+[florianmousseau.com](https://florianmousseau.com) ·
+[LinkedIn](https://www.linkedin.com/in/florianmousseau)
