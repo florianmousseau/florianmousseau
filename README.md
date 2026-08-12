@@ -1,6 +1,6 @@
 # Florian Mousseau
 
-Tech Lead. Back-end since 2010, in banking since 2014.
+Tech Lead. Back-end since 2010.
 
 I publish local-first libraries: the working copy lives in the browser, backups
 are encrypted and portable, and nothing needs a server to be useful.
