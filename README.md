@@ -1,9 +1,14 @@
 # Florian Mousseau
 
-Tech Lead. Back-end since 2010.
+Full-stack developer since 2010, Tech Lead at Zenika.
 
-I publish local-first libraries: the working copy lives in the browser, backups
-are encrypted and portable, and nothing needs a server to be useful.
+On mission, I hold the technical line of a team and answer for what it ships.
+Off mission, I design, build and run about ten products online, alone. AI agents
+write part of the code, governed by a delivery chain I built.
+
+The libraries below are the local-first foundation those products sit on: the
+working copy lives in the browser, backups are encrypted and portable, and
+nothing needs a server to be useful.
 
 ### [selfstore](https://selfstore.dev)
 
