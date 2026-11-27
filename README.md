@@ -1,4 +1,4 @@
-Full-stack Java and Angular developer since 2010.
+Software engineer since 2010. I have designed and shipped software in several industries, adapting each time to the business and the technology. I use AI where it helps.
 
 ### Libraries
 
