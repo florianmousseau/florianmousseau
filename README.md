@@ -14,4 +14,3 @@ Software engineer since 2010. I have designed and shipped software in several in
 ### Apps
 
 - [pokeragile](https://github.com/florianmousseau/pokeragile) - planning poker for agile teams, where AI assistants can vote over MCP
-- [parcellaire](https://github.com/florianmousseau/parcellaire) - public data on a French land parcel, and the computation of its plan
