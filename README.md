@@ -10,7 +10,6 @@ Software engineer since 2010. I have designed and shipped software in several in
 
 - [auregistre/api](https://github.com/auregistre/api) - what changed in a French company, and when
 - [titelia/api](https://github.com/titelia/api) - which funds hold a listed company, and what a fund holds
-- [lesbancs-api](https://github.com/florianmousseau/lesbancs-api) - the catchment schools of a French address, and their results
 
 ### Apps
 
